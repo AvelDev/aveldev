@@ -1,3 +1,5 @@
+![Background](./background.png)
+
 # 👋 Contact:
 
 ![DISCORD](https://dcbadge.limes.pink/api/shield/1293903957722402920)
